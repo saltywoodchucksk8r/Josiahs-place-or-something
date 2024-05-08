@@ -1,7 +1,12 @@
 body{
-
+background-color: 
 }
 
-.a{
-margin: ;
+header{
+display: flex;
+justify-content: space-between;
 }
+
+/* h3{
+
+} */
