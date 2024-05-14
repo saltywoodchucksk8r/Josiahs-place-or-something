@@ -16,6 +16,11 @@ height: 10vh;
 
 }
 
+.texth{
+  display: flex;
+  justify-content: flex-start;
+}
+
 footer {
     position: fixed;
     bottom: 0;
