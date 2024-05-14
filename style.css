@@ -29,11 +29,7 @@ footer {
     color: saddlebrown
     
  }
-.hm{
-  justify-content: center;
-  justify-items: center;
-  display: grid;
-}
+
 .abtt {
   background-color: #9FDEDD;
 }
@@ -54,7 +50,8 @@ footer {
 }
 .bign{
   font-size: 64px;
- 
+  display: flex;
+  justify-content: center;
   font-family: "Ultra", serif;
   font-weight: 400;
   font-style: normal;
@@ -68,6 +65,19 @@ footer {
   justify-content: center;
 }
 
+.A{
+  display: flex;
+  flex-direction: row;
+}
+
+.B{
+  display: flex;
+  flex-direction: row-reverse;
+}
+img {
+  max-width: 1000px;
+  max-height: 1000px;
+}
 .button-92 {
   --c: #349391;
   
