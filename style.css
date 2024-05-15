@@ -79,6 +79,11 @@ footer {
   display: flex;
   flex-direction: row-reverse;
 }
+
+.textht{
+  
+}
+
 img {
   max-width: 1000px;
   max-height: 1000px;
